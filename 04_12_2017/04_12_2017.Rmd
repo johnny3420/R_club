@@ -1,0 +1,20 @@
+---
+title: "April 12 2017"
+author: "John"
+date: "April 12, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r Practice}
+
+test <- unlist(lapply(labs, function(x) paste(nums,x, sep = "")))
+
+test2 <- c(outer(nums,labs,paste0))
+
+
+
+```
