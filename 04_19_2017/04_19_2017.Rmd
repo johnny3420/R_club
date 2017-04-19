@@ -1,1 +1,12 @@
-Placeholder
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+##This is my title
+
+Here are some words on the page
+
+Here is a picture of a turtle
+
+![Turtle](https://i.ytimg.com/vi/p4Jj9QZFJvw/hqdefault.jpg)
