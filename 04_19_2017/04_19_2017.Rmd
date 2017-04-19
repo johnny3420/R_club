@@ -1,9 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-##This is my title
+## This is my title
 
 Here are some words on the page
 
